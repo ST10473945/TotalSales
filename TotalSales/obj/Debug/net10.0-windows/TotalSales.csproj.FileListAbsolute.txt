@@ -1,0 +1,16 @@
+C:\Users\hewit\source\repos\TotalSales\TotalSales\bin\Debug\net10.0-windows\TotalSales.exe
+C:\Users\hewit\source\repos\TotalSales\TotalSales\bin\Debug\net10.0-windows\TotalSales.deps.json
+C:\Users\hewit\source\repos\TotalSales\TotalSales\bin\Debug\net10.0-windows\TotalSales.runtimeconfig.json
+C:\Users\hewit\source\repos\TotalSales\TotalSales\bin\Debug\net10.0-windows\TotalSales.dll
+C:\Users\hewit\source\repos\TotalSales\TotalSales\bin\Debug\net10.0-windows\TotalSales.pdb
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.frmTotalSales.resources
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.csproj.GenerateResource.cache
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.AssemblyInfoInputs.cache
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.AssemblyInfo.cs
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.csproj.CoreCompileInputs.cache
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.dll
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\refint\TotalSales.dll
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.pdb
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\TotalSales.genruntimeconfig.cache
+C:\Users\hewit\source\repos\TotalSales\TotalSales\obj\Debug\net10.0-windows\ref\TotalSales.dll
